@@ -1,0 +1,33 @@
+complex Json
+object within the array
+example
+{ "books":
+[
+  {
+    "name":"let is c",
+    "author":"yashwant jar"
+  },
+  {
+    "name": "rich  dad and poor dad",
+    "author": "robert kiyasoki"
+  },
+{
+  "name": "Introduction to algorithms",
+  "author": "cormen"
+}
+
+
+]}
+
+### Json path fineder 0,1,2,3.4
+
+2...ARRAY within the object 
+
+
+we will use indextion to rich them
+
+{
+  "student":["aditi","gawade","love"]
+}
+....https://jsonpathfinder.com/
+
