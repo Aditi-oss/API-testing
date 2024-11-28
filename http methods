@@ -1,0 +1,10 @@
+HTTP methods response status code we have to check whether the HTTP response code has sucuessfully completed 
+
+responses hava  five classes 
+information responses (100-199)
+sucessfull responses (200-299)
+redirectional responses (300-399)
+client error responses (100-499)
+server error responses(500-599)
+
+  
