@@ -1,0 +1,31 @@
+JSON is an lightweight  using for transfer and strong the data 
+data sent to the client to the server 
+xml is an extnesible markup lanaguane manchine as well as human readble tags we are using in xml
+JSon 
+key and value pair
+
+key features of json
+human -readble 
+languange -Independent 
+all language is suppported to the json 
+the keys are enclossed with double braces 
+
+###
+object bases of data contain a key and value pair in {} in curly bases and double quotes .
+arrays bases :array is basically using of an [] bracket in containing list of values .
+
+%%% different data types we are using in  JSON
+1.string
+2.number
+3.object json
+4.array
+5.boolean
+6.null
+{"name":"aditi",
+"age ": "23",
+"home":"pune"
+"address"{
+},
+"phone":["9022050078","4546989454"]
+}
+///number is supported without using the double quote 
