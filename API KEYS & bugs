@@ -1,0 +1,24 @@
+what you test in API?
+you want verify the json and xml.
+HTTp status code 
+headers which are coming responsive negative or invalid indicators.
+max/min key values.
+missing key 
+response time 
+error meassge 
+empty updates and post handling
+chanining request verification
+body 
+error codes 
+end to end crud
+ verfies null and 
+unicode cHARCER 
+
+
+Common bgus in api ?
+misisng key 
+duplicate key
+incorrect HTTP code 
+ validation isuue '
+ API monitoring issue 
+
