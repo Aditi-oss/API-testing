@@ -1,0 +1,13 @@
+types of API 
+
+`1.SOAP 
+
+SOAP[a] is a messaging protocol specification for exchanging structured information in the implementation of web services in computer networks.
+It uses XML Information Set for its message format, and relies on application layer protocols, most often Hypertext Transfer Protocol (HTTP), although some legacy systems communicate over Simple Mail Transfer Protocol (SMTP),
+for message negotiation and transmission.
+soap is simple object acesss protocol.
+client-server -for exchanging basic information
+XML BAsed messaging protocol
+it is platform and languange indepedent
+SOAP is used to data part and web services.
+    
