@@ -1,0 +1,13 @@
+Newman install of collection of html tools extra .
+npm --version 
+node --version 
+npm -g install newman
+newman --version
+npm -g install newman-reporter-htmlextra
+run the collection 
+newman run <link>-r,cli,htmlextra
+example---
+newman run https://api.postman.com/collections/21587753-91994c60-80e8-405a-9da8-b606800d348b?access_key=12323232PMAT-01JENH7NYN5HT8T94B8Q8EK0KY -r cli,htmlextra
+
+share project share via api collection then  copy and then
+
