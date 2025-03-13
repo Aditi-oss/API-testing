@@ -1,0 +1,24 @@
+
+cookies 
+
+multiple client send the request to the server 
+HTTP is stateless 
+cookie is an unique key text plain .
+client is stroing the cookies  suppose we have a  sunmit request to applying any company job then we will go through the website and then their is notification accept all cookies 
+username and password .
+key and value pair  we can store the cookies .
+until your cookies is valid  you can access the page .
+
+
+Headers 
+
+key and pair send to the server we are using.
+request headers 
+response headers
+Header name :Header value 
+ example.content type - wha kind of the data are you sending to the server .
+
+
+
+
+
