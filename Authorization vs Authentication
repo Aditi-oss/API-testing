@@ -1,0 +1,14 @@
+Authorization 
+Authorization determines the  user who allowed the syetm to check the chexk within system .
+After logging the gmail account are you able to open the  inbox and admin sytsem.
+
+
+
+
+Authentication
+Authentication is process who is user .
+ checking credentials such as username and passoword idnetity we are performed in the API Testing .
+gmail acoount we are using  checking the person is right.
+
+
+Authentication means user verifies idnetity and authorization is determine the access .
