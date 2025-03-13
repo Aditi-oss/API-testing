@@ -12,6 +12,25 @@ types
 
 online and offline  api 
 
+client send request to the server then server responds to html page to see the homepage .
+ HTTP protocol to fecthing a resource
+
+protocol - the rules yoiu have to follow that is called the protocol.
+HTTPS 
+ client -fetch something to the server is called as the browser application and we are check into the system.
+
+
+server - server is an application  we suppose send the request then it will go to the network with the get method server is IP address
+different server is there . 
+ server who is receice the request and give the response .
+
+what happens when you type the google.com?
+client -chrome browser we have to go with an 
+DNS -IP Address - where is the server and where is the resource locate.
+domain name system - it will give th IP address 
+
+
+
 
 
 
